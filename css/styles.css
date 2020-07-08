@@ -1,0 +1,67 @@
+body {
+  font-size: 16px;
+  font-family: 'Oxygen', sans-serif;
+}
+#header-nav {
+  background-color: #A9A9A9;
+  border-radius: 0;
+  border: 5px;
+  border-color: blue;
+  width: 100%;
+}
+.navbar-default .navbar-brand {
+  font-size: 2em;
+  font-family: cursive;
+  color: black; 
+  font-weight: bold;
+}
+h2 {
+  font-family: cursive;
+  color: black;
+  font-weight: bold;
+}
+.row{
+  margin:0;
+}
+.container-fluid .col-xs-12{
+  height:2000px;
+  background-color: #A9A9A9;
+  margin-top: 20px;
+  width:100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+div#food-item{
+  margin-top: 10px;
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 1.2em;
+  color: black;
+}
+p {
+  margin-top: 10px;
+   font-family: cursive;
+   font-weight: bold; 
+   color: black;
+}
+.navbar-default .navbar-toggle {
+  border:2px solid black;
+}
+.navbar-default .navbar-toggle .icon-bar{
+  background-color:black;
+  border:solid black;
+}
+ #collapsable-nav a { 
+    font-size: 1.2em;
+    font-family: cursive;
+    font-weight: bold; 
+  }
+#nav-list a {
+  color: black;
+  text-align: center;
+  border:3px solid black;
+  margin-top:1px; 
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
